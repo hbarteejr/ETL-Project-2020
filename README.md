@@ -1,1 +1,2 @@
 # ETL-Project-2020
+In this project, due to social distancing and the virtual upcoming NFL Draft, we have been tasked to evaluate the First Round Draft Picks over the last 10 years and determine what are positions played, colleges attended, and the individual hometowns of these individuals selected.  Data has been obtained from various sites to help develop data set.  We will migrate this data to a production data base that will make it possible as a reference point as they make a determination on draft picks for the first-ever virtual draft in 2020. 
