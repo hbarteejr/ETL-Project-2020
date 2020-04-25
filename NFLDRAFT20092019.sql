@@ -1,12 +1,12 @@
-DROP TABLE IF EXISTS team;
-DROP TABLE IF EXISTS notes;
-DROP TABLE IF EXISTS college;
-DROP TABLE IF EXISTS pick;
-DROP TABLE IF EXISTS unnamed;
+DROP TABLE IF EXISTS NFLDRAFT20092019;
+
 
 CREATE TABLE round (
+  draft year character varying(45) NOT NULL,
   round character varying(45) NOT NULL,
   player character varying(45) NOT NULL,
   position character varying(45) NOT NULL,
   conference character varying(45) NOT NULL
 );
+
+
