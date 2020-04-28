@@ -1,4 +1,5 @@
 # ETL-Project-2020
+
 In this project, due to social distancing and the virtual upcoming NFL Draft, we have been tasked to evaluate the First Round Draft Picks over the last 10 years and determine what positions the players played, what colleges they attended, and the individual conference of those individuals selected.  Data has been obtained from various sites, including www.nfl.com and www.profootballreference.com to help develop the data set for this process.  The data was migrated to a production data base called PGMADMIN.
 
 The data on this database makes it possible for teams to evaluate and make a determination on draft picks for the first-ever virtual draft in 2020. Ultimately, we are looking at the trends on how team are drafting from the Power 5 Conferences as well as the Non Power 5 Conferences.   
