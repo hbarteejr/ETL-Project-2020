@@ -16,4 +16,4 @@ In the final project report, we will include the following:
 * **T**ransform: what data cleaning or transformation was required.
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
-Report will be uploaded and submit a link to Bootcampspot.
+
