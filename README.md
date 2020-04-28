@@ -5,7 +5,7 @@ The data on this database makes it possible for teams to evaluate and make a det
 
 In the Data Cleanup & Analysis, we did the following as we perform the ETL Process. 
 
-* The sources of data was extracted from www.nfl.com and www.profootballreference.com.  
+The sources of data was extracted from www.nfl.com and www.profootballreference.com.  
 
 After the data was extracted into 11 Excel Files from 2009 to 2019, they were joined by merging them into one Master CSV File called NFLDraft20092010_ETL.csv. Dataframes were created, columns were cleaned, and then data was filtered by 5 compoonents including Draft Year, Round, Player, Position, and Conference.  
 
