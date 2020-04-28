@@ -1,0 +1,255 @@
+Draft Year,Round,Pick,Team,Player,Postion,College,Conference,Notes
+2013,1,1,Kansas City Chiefs,Eric Fisher,OT,Central Michigan,MAC,[11]
+2013,1,2,Jacksonville Jaguars,Luke Joeckel,OT,Texas A&M,SEC,
+2013,1,3,Miami Dolphins,Dion Jordan,DE,Oregon,Pac-12,fromOakland[R1 - 1]
+2013,1,4,Philadelphia Eagles,Lane Johnson,OT,Oklahoma,Big 12,
+2013,1,5,Detroit Lions,Ezekiel Ansah,DE,BYU,Ind. (FBS),
+2013,1,6,Cleveland Browns,Barkevious Mingo,DE,LSU,SEC,
+2013,1,7,Arizona Cardinals,Jonathan Cooper,G,North Carolina,ACC,
+2013,1,8,St. Louis Rams,Tavon Austin,WR,West Virginia,Big 12,fromBuffalo[R1 - 2]
+2013,1,9,New York Jets,Dee Milliner,CB,Alabama,SEC,
+2013,1,10,Tennessee Titans,Chance Warmack,G,Alabama,SEC,
+2013,1,11,San Diego Chargers,D. J. Fluker,OT,Alabama,SEC,
+2013,1,12,Oakland Raiders,D. J. Hayden,CB,Houston,C-USA,fromMiami[R1 - 3]
+2013,1,13,New York Jets,Sheldon Richardson,DT,Missouri,SEC,fromTampa Bay[R1 - 4]
+2013,1,14,Carolina Panthers,Star Lotulelei,DT,Utah,Pac-12,
+2013,1,15,New Orleans Saints,Kenny Vaccaro,S,Texas,Big 12,
+2013,1,16,Buffalo Bills,EJ Manuel,QB,Florida State,ACC,fromSt. Louis[R1 - 5]
+2013,1,17,Pittsburgh Steelers,Jarvis Jones,LB,Georgia,SEC,
+2013,1,18,San Francisco 49ers,Eric Reid,S,LSU,SEC,fromDallas[R1 - 6]
+2013,1,19,New York Giants,Justin Pugh,OT,Syracuse,Big East,
+2013,1,20,Chicago Bears,Kyle Long,G,Oregon,Pac-12,
+2013,1,21,Cincinnati Bengals,Tyler Eifert,TE,Notre Dame,Ind. (FBS),
+2013,1,22,Atlanta Falcons,Desmond Trufant,CB,Washington,Pac-12,fromWashingtonviaSt. Louis[R1 - 7]
+2013,1,23,Minnesota Vikings,Sharrif Floyd,DT,Florida,SEC,
+2013,1,24,Indianapolis Colts,Björn Werner,DE,Florida State,ACC,
+2013,1,25,Minnesota Vikings,Xavier Rhodes,CB,Florida State,ACC,fromSeattle[R1 - 8]
+2013,1,26,Green Bay Packers,Datone Jones,DE,UCLA,Pac-12,
+2013,1,27,Houston Texans,DeAndre Hopkins,WR,Clemson,ACC,
+2013,1,28,Denver Broncos,Sylvester Williams,DT,North Carolina,ACC,
+2013,1,29,Minnesota Vikings,Cordarrelle Patterson,WR,Tennessee,SEC,fromNew England[R1 - 9]
+2013,1,30,St. Louis Rams,Alec Ogletree,LB,Georgia,SEC,fromAtlanta[R1 - 10]
+2013,1,31,Dallas Cowboys,Travis Frederick,C,Wisconsin,Big Ten,fromSan Francisco[R1 - 11]
+2013,1,32,Baltimore Ravens,Matt Elam,S,Florida,SEC,
+2013,2,33,Jacksonville Jaguars,Johnathan Cyprien,S,FIU,Sun Belt,
+2013,2,34,Tennessee Titans,Justin Hunter,WR,Tennessee,SEC,fromKansas CityviaSan Francisco[R2 - 1]
+2013,2,35,Philadelphia Eagles,Zach Ertz,TE,Stanford,Pac-12,
+2013,2,36,Detroit Lions,Darius Slay,CB,Mississippi State,SEC,
+2013,2,37,Cincinnati Bengals,Giovani Bernard,RB,North Carolina,ACC,fromOakland[R2 - 2]
+2013,2,38,San Diego Chargers,Manti Te'o,LB,Notre Dame,Ind. (FBS),fromArizona[R2 - 3]
+2013,2,39,New York Jets,Geno Smith,QB,West Virginia,Big 12,
+2013,2,40,San Francisco 49ers,Tank Carradine,DE,Florida State,ACC,fromTennessee[R2 - 4]
+2013,2,41,Buffalo Bills,Robert Woods,WR,USC,Pac-12,
+2013,2,42,Oakland Raiders,Menelik Watson,OT,Florida State,ACC,fromMiami[R2 - 5]
+2013,2,43,Tampa Bay Buccaneers,Johnthan Banks,CB,Mississippi State,SEC,
+2013,2,44,Carolina Panthers,Kawann Short,DT,Purdue,Big Ten,
+2013,2,45,Arizona Cardinals,Kevin Minter,LB,LSU,SEC,fromSan Diego[R2 - 6]
+2013,2,46,Buffalo Bills,Kiko Alonso,LB,Oregon,Pac-12,fromSt. Louis[R2 - 7]
+2013,2,47,Dallas Cowboys,Gavin Escobar,TE,San Diego State,MW,
+2013,2,48,Pittsburgh Steelers,Le'Veon Bell,RB,Michigan State,Big Ten,
+2013,2,49,New York Giants,Johnathan Hankins,DT,Ohio State,Big Ten,
+2013,2,50,Chicago Bears,Jonathan Bostic,LB,Florida,SEC,
+2013,2,51,Washington Redskins,David Amerson,CB,N.C. State,ACC,
+2013,2,52,New England Patriots,Jamie Collins,LB,Southern Miss,C-USA,fromMinnesota[R2 - 8]
+2013,2,53,Cincinnati Bengals,Margus Hunt,DE,SMU,C-USA,
+2013,2,54,Miami Dolphins,Jamar Taylor,CB,Boise State,MW,fromIndianapolis[R2 - 9]
+2013,2,55,San Francisco 49ers,Vance McDonald,TE,Rice,C-USA,fromGreen Bay[R2 - 10]
+2013,2,56,Baltimore Ravens,Arthur Brown,LB,Kansas State,Big 12,fromSeattle[R2 - 11]
+2013,2,57,Houston Texans,D.J. Swearinger,S,South Carolina,SEC,
+2013,2,58,Denver Broncos,Montee Ball,RB,Wisconsin,Big Ten,
+2013,2,59,New England Patriots,Aaron Dobson,WR,Marshall,C-USA,
+2013,2,60,Atlanta Falcons,Robert Alford,CB,Southeastern Louisiana,Southland,
+2013,2,61,Green Bay Packers,Eddie Lacy,RB,Alabama,SEC,fromSan Francisco[R2 - 12]
+2013,2,62,Seattle Seahawks,Christine Michael,RB,Texas A&M,SEC,fromBaltimore[R2 - 13]
+2013,3,63,Kansas City Chiefs,Travis Kelce,TE,Cincinnati,Big East,
+2013,3,64,Jacksonville Jaguars,Dwayne Gratz,CB,Connecticut,Big East,
+2013,3,65,Detroit Lions,Larry Warford,G,Kentucky,SEC,
+2013,3,66,Oakland Raiders,Sio Moore,LB,Connecticut,Big East,
+2013,3,67,Philadelphia Eagles,Bennie Logan,DT,LSU,SEC,
+2013,3,68,Cleveland Browns,Leon McFadden,CB,San Diego State,MW,
+2013,3,69,Arizona Cardinals,Tyrann Mathieu,CB,LSU,SEC,
+2013,3,70,Tennessee Titans,Blidi Wreh-Wilson,CB,Connecticut,Big East,
+2013,3,71,St. Louis Rams,T. J. McDonald,S,USC,Pac-12,fromBuffalo[R3 - 1]
+2013,3,72,New York Jets,Brian Winters,G,Kent State,MAC,
+2013,3,73,Tampa Bay Buccaneers,Mike Glennon,QB,N.C. State,ACC,
+2013,3,74,Dallas Cowboys,Terrance Williams,WR,Baylor,Big 12,fromCarolinaviaSan Francisco[R3 - 2]
+2013,3,75,New Orleans Saints,Terron Armstead,OT,Arkansas–Pine Bluff,SWAC,
+2013,3,76,San Diego Chargers,Keenan Allen,WR,California,Pac-12,
+2013,3,77,Miami Dolphins,Dallas Thomas,G,Tennessee,SEC,
+2013,3,78,Buffalo Bills,Marquise Goodwin,WR,Texas,Big 12,fromSt. Louis[R3 - 3]
+2013,3,79,Pittsburgh Steelers,Markus Wheaton,WR,Oregon State,Pac-12,
+2013,3,80,Dallas Cowboys,J. J. Wilcox,S,Georgia Southern,SoCon,
+2013,3,81,New York Giants,Damontre Moore,DE,Texas A&M,SEC,
+2013,3,82,New Orleans Saints,John Jenkins,DT,Georgia,SEC,fromChicagoviaMiami[R3 - 4]
+2013,3,83,New England Patriots,Logan Ryan,CB,Rutgers,Big East,fromMinnesota[R3 - 5]
+2013,3,84,Cincinnati Bengals,Shawn Williams,S,Georgia,SEC,
+2013,3,85,Washington Redskins,Jordan Reed,TE,Florida,SEC,
+2013,3,86,Indianapolis Colts,Hugh Thornton,G,Illinois,Big Ten,
+2013,3,87,Seattle Seahawks,Jordan Hill,DT,Penn State,Big Ten,
+2013,3,88,San Francisco 49ers,Corey Lemonier,DE,Auburn,SEC,fromGreen Bay[R3 - 6]
+2013,3,89,Houston Texans,Brennan Williams,OT,North Carolina,ACC,
+2013,3,90,Denver Broncos,Kayvon Webster,CB,South Florida,Big East,
+2013,3,91,New England Patriots,Duron Harmon,S,Rutgers,Big East,
+2013,3,92,St. Louis Rams,Stedman Bailey,WR,West Virginia,Big 12,fromAtlanta[R3 - 7]
+2013,3,93,Miami Dolphins,Will Davis,CB,Utah State,WAC,fromSan FranciscoviaGreen Bay[R3 - 8]
+2013,3,94,Baltimore Ravens,Brandon Williams,DT,Missouri Southern State,MIAA,
+2013,3,95,Houston Texans,Sam Montgomery,DE,LSU,SEC,
+2013,3,96,Kansas City Chiefs,Knile Davis,RB,Arkansas,SEC,
+2013,3,97,Tennessee Titans,Zaviar Gooden,LB,Missouri,SEC,
+2013,4,98,Philadelphia Eagles,Matt Barkley,QB,USC,Pac-12,fromJacksonville[R4 - 1]
+2013,4,99,Kansas City Chiefs,Nico Johnson,LB,Alabama,SEC,
+2013,4,100,Tampa Bay Buccaneers,Akeem Spence,DT,Illinois,Big Ten,fromOakland[R4 - 2]
+2013,4,101,Jacksonville Jaguars,Ace Sanders,WR,South Carolina,SEC,fromPhiladelphia[R4 - 3]
+2013,4,102,New England Patriots,Josh Boyce,WR,TCU,Big 12,fromDetroitviaMinnesota[R4 - 4]
+2013,4,103,Arizona Cardinals,Alex Okafor,DE,Texas,Big 12,
+2013,4,104,Miami Dolphins,Jelani Jenkins,LB,Florida,SEC,fromCleveland[R4 - 5]
+2013,4,105,Buffalo Bills,Duke Williams,S,Nevada,MW,
+2013,4,106,Miami Dolphins,Dion Sims,TE,Michigan State,Big Ten,fromNew York JetsviaNew Orleans[R4 - 6]
+2013,4,107,Tennessee Titans,Brian Schwenke,C,California,Pac-12,
+2013,4,108,Carolina Panthers,Edmund Kugbila,G,Valdosta State,Gulf South,
+2013,4,109,Green Bay Packers,David Bakhtiari,OT,Colorado,Pac-12,fromNew OrleansviaMiami[R4 - 7]
+2013,4,110,New York Giants,Ryan Nassib,QB,Syracuse,Big East,fromSan DiegoviaArizona[R4 - 8]
+2013,4,111,Pittsburgh Steelers,Shamarko Thomas,S,Syracuse,Big East,fromMiamiviaCleveland[R4 - 9]
+2013,4,112,Oakland Raiders,Tyler Wilson,QB,Arkansas,SEC,fromTampa Bay[R4 - 10]
+2013,4,113,St. Louis Rams,Barrett Jones,G,Alabama,SEC,
+2013,4,114,Dallas Cowboys,B. W. Webb,CB,William & Mary,CAA,
+2013,4,115,Pittsburgh Steelers,Landry Jones,QB,Oklahoma,Big 12,
+2013,4,116,Arizona Cardinals,Earl Watford,G,James Madison,CAA,fromNew York Giants[R4 - 11]
+2013,4,117,Chicago Bears,Khaseem Greene,LB,Rutgers,Big East,
+2013,4,118,Cincinnati Bengals,Sean Porter,LB,Texas A&M,SEC,
+2013,4,119,Washington Redskins,Phillip Thomas,S,Fresno State,MW,
+2013,4,120,Minnesota Vikings,Gerald Hodges,LB,Penn State,Big Ten,
+2013,4,121,Indianapolis Colts,Khaled Holmes,C,USC,Pac-12,
+2013,4,122,Green Bay Packers,JC Tretter,OT,Cornell,Ivy,
+2013,4,123,Seattle Seahawks,Chris Harper,WR,Kansas State,Big 12,
+2013,4,124,Houston Texans,Trevardo Williams,DE,Connecticut,Big East,
+2013,4,125,Green Bay Packers,Johnathan Franklin,RB,UCLA,Pac-12,fromDenver[R4 - 12]
+2013,4,126,Tampa Bay Buccaneers,William Gholston,DE,Michigan State,Big Ten,fromNew England[R4 - 13]
+2013,4,127,Atlanta Falcons,Malliciah Goodman,DE,Clemson,ACC,
+2013,4,128,San Francisco 49ers,Quinton Patton,WR,Louisiana Tech,WAC,
+2013,4,129,Baltimore Ravens,John Simon,DE,Ohio State,Big Ten,
+2013,4,130,Baltimore Ravens,Kyle Juszczyk,FB,Harvard,Ivy,
+2013,4,131,San Francisco 49ers,Marcus Lattimore,RB,South Carolina,SEC,
+2013,4,132,Detroit Lions,Devin Taylor,DE,South Carolina,SEC,
+2013,4,133,Atlanta Falcons,Levine Toilolo,TE,Stanford,Pac-12,
+2013,5,134,Kansas City Chiefs,Sanders Commings,CB,Georgia,SEC,
+2013,5,135,Jacksonville Jaguars,Denard Robinson,RB,Michigan,Big Ten,
+2013,5,136,Philadelphia Eagles,Earl Wolff,S,N.C. State,ACC,
+2013,5,137,Seattle Seahawks,Jesse Williams,DT,Alabama,SEC,fromDetroit[R5 - 1]
+2013,5,138,Seattle Seahawks,Tharold Simon,CB,LSU,SEC,fromOakland[R5 - 2]
+2013,5,139,Indianapolis Colts,Montori Hughes,DT,UT Martin,OVC,fromCleveland[R5 - 3]
+2013,5,140,Arizona Cardinals,Stepfan Taylor,RB,Stanford,Pac-12,
+2013,5,141,New York Jets,Oday Aboushi,G,Virginia,ACC,
+2013,5,142,Tennessee Titans,Lavar Edwards,DE,LSU,SEC,
+2013,5,143,Buffalo Bills,Jonathan Meeks,S,Clemson,ACC,
+2013,5,144,New Orleans Saints,Kenny Stills,WR,Oklahoma,Big 12,
+2013,5,145,San Diego Chargers,Steve Williams,CB,California,Pac-12,
+2013,5,146,Denver Broncos,Quanterus Smith,DE,WKU,Sun Belt,fromMiamiviaGreen Bay[R5 - 4]
+2013,5,147,Tampa Bay Buccaneers,Steven Means,LB,Buffalo,MAC,
+2013,5,148,Carolina Panthers,A. J. Klein,LB,Iowa State,Big 12,
+2013,5,149,St. Louis Rams,Brandon McGee,CB,Miami (FL),ACC,
+2013,5,150,Pittsburgh Steelers,Terry Hawthorne,CB,Illinois,Big Ten,
+2013,5,151,Dallas Cowboys,Joseph Randle,RB,Oklahoma State,Big 12,
+2013,5,152,New York Giants,Cooper Taylor,S,Richmond,CAA,
+2013,5,153,Atlanta Falcons,Stansly Maponga,DE,TCU,Big 12,fromChicago[R5 - 5]
+2013,5,154,Washington Redskins,Chris Thompson,RB,Florida State,ACC,
+2013,5,155,Minnesota Vikings,Jeff Locke,P,UCLA,Pac-12,
+2013,5,156,Cincinnati Bengals,Tanner Hawkinson,OT,Kansas,Big 12,
+2013,5,157,San Francisco 49ers,Quinton Dial,DE,Alabama,SEC,fromIndianapolis[R5 - 6]
+2013,5,158,Seattle Seahawks,Luke Willson,TE,Rice,C-USA,
+2013,5,159,Green Bay Packers,Micah Hyde,CB,Iowa,Big Ten,
+2013,5,160,St. Louis Rams,Zac Stacy,RB,Vanderbilt,SEC,fromHouston[R5 - 7]
+2013,5,161,Denver Broncos,Tavarres King,WR,Georgia,SEC,
+2013,5,162,Washington Redskins,Brandon Jenkins,LB,Florida State,ACC,fromNew England[R5 - 8]
+2013,5,163,Chicago Bears,Jordan Mills,OT,Louisiana Tech,WAC,fromAtlanta[R5 - 9]
+2013,5,164,Miami Dolphins,Mike Gillislee,RB,Florida,SEC,fromSan FranciscoviaCleveland[R5 - 10]
+2013,5,165,Detroit Lions,Sam Martin,P,Appalachian State,SoCon,fromBaltimoreviaSeattle[R5 - 11]
+2013,5,166,Miami Dolphins,Caleb Sturgis,K,Florida,SEC,
+2013,5,167,Green Bay Packers,Josh Boyd,DT,Mississippi State,SEC,
+2013,5,168,Baltimore Ravens,Ricky Wagner,OT,Wisconsin,Big Ten,
+2013,6,169,Jacksonville Jaguars,Josh Evans,S,Florida,SEC,
+2013,6,170,Kansas City Chiefs,Eric Kush,C,California (PA),PSAC,
+2013,6,171,Detroit Lions,Corey Fuller,WR,Virginia Tech,ACC,
+2013,6,172,Oakland Raiders,Nick Kasa,TE,Colorado,Pac-12,
+2013,6,173,Denver Broncos,Vinston Painter,OT,Virginia Tech,ACC,"fromPhiladelphiaviaCleveland,San FranciscoandGreen Bay[R6 - 1]"
+2013,6,174,Arizona Cardinals,Ryan Swope,WR,Texas A&M,SEC,
+2013,6,175,Cleveland Browns,Jamoris Slaughter,S,Notre Dame,Ind. (FBS),
+2013,6,176,Houston Texans,David Quessenberry,OT,San Jose State,WAC,"fromTennesseeviaMinnesota,Arizona, andOakland[R6 - 2]"
+2013,6,177,Buffalo Bills,Dustin Hopkins,K,Florida State,ACC,
+2013,6,178,New York Jets,William Campbell,G,Michigan,Big Ten,
+2013,6,179,San Diego Chargers,Tourek Williams,DE,FIU,Sun Belt,
+2013,6,180,San Francisco 49ers,Nick Moody,LB,Florida State,ACC,fromMiami[R6 - 3]
+2013,6,181,Oakland Raiders,Latavius Murray,RB,UCF,C-USA,fromTampa Bay[R6 - 4]
+2013,6,182,Carolina Panthers,Kenjon Barner,RB,Oregon,Pac-12,
+2013,6,183,New Orleans Saints,Rufus Johnson,DE,Tarleton State,Lone Star,
+2013,6,184,Oakland Raiders,Mychal Rivera,TE,Tennessee,SEC,fromSt. LouisviaHouston[R6 - 5]
+2013,6,185,Dallas Cowboys,DeVonte Holloman,LB,South Carolina,SEC,
+2013,6,186,Pittsburgh Steelers,Justin Brown,WR,Oklahoma,Big 12,
+2013,6,187,Arizona Cardinals,Andre Ellington,RB,Clemson,ACC,fromNew York Giants[R6 - 6]
+2013,6,188,Chicago Bears,Cornelius Washington,DE,Georgia,SEC,
+2013,6,189,Tampa Bay Buccaneers,Mike James,RB,Miami (FL),ACC,fromMinnesota[R6 - 7]
+2013,6,190,Cincinnati Bengals,Rex Burkhead,RB,Nebraska,Big Ten,
+2013,6,191,Washington Redskins,Bacarri Rambo,S,Georgia,SEC,
+2013,6,192,Indianapolis Colts,John Boyett,S,Oregon,Pac-12,
+2013,6,193,Green Bay Packers,Nate Palmer,OLB,Illinois State,MVFC,
+2013,6,194,Seattle Seahawks,Spencer Ware,RB,LSU,SEC,
+2013,6,195,Houston Texans,Alan Bonner,WR,Jacksonville State,OVC,
+2013,6,196,Minnesota Vikings,Jeff Baca,G,UCLA,Pac-12,fromDenverviaPhiladelphiaandTampa Bay[R6 - 8]
+2013,6,197,Cincinnati Bengals,Cobi Hamilton,WR,Arkansas,SEC,fromNew England[R6 - 9]
+2013,6,198,Houston Texans,Chris Jones,DT,Bowling Green,MAC,fromAtlantaviaSt. Louis[R6 - 10]
+2013,6,199,Detroit Lions,Theo Riddick,RB,Notre Dame,Ind. (FBS),fromSan FranciscoviaBaltimoreandSeattle[R6 - 11]
+2013,6,200,Baltimore Ravens,Kapron Lewis-Moore,DE,Notre Dame,Ind. (FBS),
+2013,6,201,Houston Texans,Ryan Griffin,TE,Connecticut,Big East,
+2013,6,202,Tennessee Titans,Khalid Wooten,CB,Nevada,MW,
+2013,6,203,Baltimore Ravens,Ryan Jensen,OT,CSU–Pueblo,RMAC,
+2013,6,204,Kansas City Chiefs,Braden Wilson,FB,Kansas State,Big 12,
+2013,6,205,Oakland Raiders,Stacy McGee,DT,Oklahoma,Big 12,
+2013,6,206,Pittsburgh Steelers,Vince Williams,LB,Florida State,ACC,
+2013,7,207,Kansas City Chiefs,Mike Catapano,DE,Princeton,Ivy,
+2013,7,208,Jacksonville Jaguars,Jeremy Harris,CB,New Mexico State,WAC,
+2013,7,209,Oakland Raiders,Brice Butler,WR,San Diego State,MW,
+2013,7,210,Jacksonville Jaguars,Demetrius McCray,CB,Appalachian State,SoCon,fromPhiladelphia[R7 - 1]
+2013,7,211,Detroit Lions,Michael Williams,TE,Alabama,SEC,
+2013,7,212,Philadelphia Eagles,Joe Kruger,DE,Utah,Pac-12,fromCleveland[R7 - 2]
+2013,7,213,Minnesota Vikings,Michael Mauti,LB,Penn State,Big Ten,fromArizona[R7 - 3]
+2013,7,214,Minnesota Vikings,Travis Bond,G,North Carolina,ACC,fromBuffaloviaSeattle[R7 - 4]
+2013,7,215,New York Jets,Tommy Bohanon,FB,Wake Forest,ACC,
+2013,7,216,Green Bay Packers,Charles Johnson,WR,Grand Valley State,GLIAC,fromTennesseeviaSan Francisco[R7 - 5]
+2013,7,217,Cleveland Browns,Armonty Bryant,DE,East Central,GAC,fromMiami[R7 - 6]
+2013,7,218,Philadelphia Eagles,Jordan Poyer,CB,Oregon State,Pac-12,fromTampa Bay[R7 - 7]
+2013,7,219,Arizona Cardinals,D. C. Jefferson,TE,Rutgers,Big East,fromCarolinaviaOakland[R7 - 8]
+2013,7,220,Seattle Seahawks,Ryan Seymour,G,Vanderbilt,SEC,fromNew Orleans[R7 - 9]
+2013,7,221,San Diego Chargers,Brad Sorensen,QB,Southern Utah,Big Sky,
+2013,7,222,Buffalo Bills,Chris Gragg,TE,Arkansas,SEC,fromSt. Louis[R7 - 10]
+2013,7,223,Pittsburgh Steelers,Nicholas Williams,DT,Samford,SoCon,
+2013,7,224,Green Bay Packers,Kevin Dorsey,WR,Maryland,ACC,fromDallasviaMiami[R7 - 11]
+2013,7,225,New York Giants,Eric Herman,G,Ohio,MAC,
+2013,7,226,New England Patriots,Michael Buchanan,DE,Illinois,Big Ten,fromChicagoviaTampa Bay[R7 - 12]
+2013,7,227,Cleveland Browns,Garrett Gilkey,G,Chadron State,RMAC,fromCincinnativiaSan Francisco[R7 - 13]
+2013,7,228,Washington Redskins,Jawan Jamison,RB,Rutgers,Big East,
+2013,7,229,Minnesota Vikings,Everett Dawkins,DT,Florida State,ACC,fromMinnesotaviaNew EnglandandTampa Bay[R7 - 14]
+2013,7,230,Indianapolis Colts,Kerwynn Williams,RB,Utah State,WAC,
+2013,7,231,Seattle Seahawks,Ty Powell,LB,Harding,GAC,
+2013,7,232,Green Bay Packers,Sam Barrington,LB,South Florida,Big East,
+2013,7,233,Oakland Raiders,David Bass,DE,Missouri Western,MIAA,fromHouston[R7 - 15]
+2013,7,234,Denver Broncos,Zac Dysert,QB,Miami (OH),MAC,
+2013,7,235,New England Patriots,Steve Beauharnais,LB,Rutgers,Big East,
+2013,7,236,Chicago Bears,Marquess Wilson,WR,Washington State,Pac-12,fromAtlanta[R7 - 16]
+2013,7,237,San Francisco 49ers,B. J. Daniels,QB,South Florida,Big East,
+2013,7,238,Baltimore Ravens,Aaron Mellette,WR,Elon,SoCon,
+2013,7,239,Philadelphia Eagles,David King,DE,Oklahoma,Big 12,
+2013,7,240,Cincinnati Bengals,Reid Fragel,OT,Ohio State,Big Ten,
+2013,7,241,Seattle Seahawks,Jared Smith,DT,New Hampshire,CAA,
+2013,7,242,Seattle Seahawks,Michael Bowie,OT,Northeastern State,MIAA,
+2013,7,243,Atlanta Falcons,Kemal Ishmael,S,UCF,C-USA,
+2013,7,244,Atlanta Falcons,Zeke Motta,S,Notre Dame,Ind. (FBS),
+2013,7,245,Detroit Lions,Brandon Hepburn,LB,Florida A&M,MEAC,
+2013,7,246,San Francisco 49ers,Carter Bykowski,OT,Iowa State,Big 12,
+2013,7,247,Baltimore Ravens,MarcAnthony,CB,California,Pac-12,
+2013,7,248,Tennessee Titans,Daimion Stafford,S,Nebraska,Big Ten,
+2013,7,249,Atlanta Falcons,Sean Renfree,QB,Duke,ACC,
+2013,7,250,Miami Dolphins,Don Jones,S,Arkansas State,Sun Belt,
+2013,7,251,Cincinnati Bengals,T. J. Johnson,C,South Carolina,SEC,
+2013,7,252,San Francisco 49ers,Marcus Cooper,CB,Rutgers,Big East,
+2013,7,253,New York Giants,Michael Cox,RB,Massachusetts,MAC,
+2013,7,254,Indianapolis Colts,Justice Cunningham,TE,South Carolina,SEC,
